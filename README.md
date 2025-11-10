@@ -68,8 +68,8 @@ then your backend is working properly.
 
 | Role | Email | Password |
 |------|--------|-----------|
-| Admin | admin@example.com | 123456 |
-| User  | user@example.com  | 123456 |
+| Admin | vishnuboligili@gmail.com | 12345678 |
+| User  | harsha@gmail.com  | 12345678 |
 
 *(You can use these credentials if seeded or register new users manually.)*
 
