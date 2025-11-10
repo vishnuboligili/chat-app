@@ -10,15 +10,22 @@ It powers user authentication, media uploads, and secure communication for the c
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/vishnuboligili/chat-app.git
-cd chat-app/backend
+
 ```
 
-### 2. Install Dependencies
+### 2.  Go to backend folder and install dependencies
 ```bash
+cd chat-app/backend
+npm install
+```
+### 3.  Go to frontend  folder and install dependencies
+```bash
+cd ../frontend
 npm install
 ```
 
-### 3. Create a `.env` File
+
+### 4. Create a `.env` File
 In the `backend` folder, create a file named `.env` and add the following environment variables:
 
 ```env
