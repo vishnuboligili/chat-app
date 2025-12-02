@@ -21,7 +21,7 @@ app.use(cookieParser());
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://yourfrontend.vercel.app"
+  "https://vishnu-chatttt-appp.netlify.app/" // replace with your Netlify URL
 ];
 
 app.use(
